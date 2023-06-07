@@ -1,4 +1,4 @@
 #!/bin/bash
 
 absolute_path=$(pwd)
-echo '$absolute_path'
+echo "$absolute_path"
