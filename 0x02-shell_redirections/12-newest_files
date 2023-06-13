@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -at --time=atime --time-style=+"%Y-%m-%d %H:%M:%S" | head
+ls -t | head -10
